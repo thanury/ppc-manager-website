@@ -1,6 +1,8 @@
 # My PPC Manager Website
 
-A simple landing page to present my PPC (Pay Per Click) management services, built with HTML, CSS and JavaScript.
+🚀 **Live Website:** https://thanury.github.io/ppc-manager-website/
+
+A landing page for showcasing my PPC management services and driving leads via WhatsApp.
 
 ## ✨ Features
 
